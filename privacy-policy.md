@@ -16,7 +16,7 @@ Images and Facial Images: Images, including facial images, may be collected for 
 All data collected by the BEST Berdikari is stored locally within the company's servers for administrative purposes related to attendance processes. We do not share this data with any third parties without your explicit consent.
 
 ### Data Retention
-To ensure efficient storage and maintain data relevance, we periodically delete stored data. Data collected by the Attendance App will be retained for a maximum period of six months. After this time, the data will be permanently deleted from our servers.
+To ensure efficient storage and maintain data relevance, we periodically delete stored data. Deleted data includes names, emails, gender, location, files, images and facial images. Data collected by the Attendance App will be retained for a maximum period of six months. After this time, the data will be permanently deleted from our servers.
 
 ### Data Security
 We implement stringent security measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction. Access to user data is restricted to authorized personnel only.
